@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-StudyUnrealCPP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Project\Study-Unreal4\StudyUnrealCPP\Intermediate\Build\Win64\StudyUnrealCPPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Project\Study-Unreal4\StudyUnrealCPP\Intermediate\Build\Win64\UE4Editor\Development\StudyUnrealCPP\StudyUnrealCPP.cpp.obj"
+"D:\Project\Study-Unreal4\StudyUnrealCPP\Intermediate\Build\Win64\UE4Editor\Development\StudyUnrealCPP\StudyUnrealCPPGameModeBase.cpp.obj"
+"D:\Project\Study-Unreal4\StudyUnrealCPP\Intermediate\Build\Win64\UE4Editor\Development\StudyUnrealCPP\StudyUnrealCPP.init.gen.cpp.obj"
+"D:\Project\Study-Unreal4\StudyUnrealCPP\Intermediate\Build\Win64\UE4Editor\Development\StudyUnrealCPP\StudyUnrealCPPGameModeBase.gen.cpp.obj"
+"D:\Project\Study-Unreal4\StudyUnrealCPP\Intermediate\Build\Win64\UE4Editor\Development\StudyUnrealCPP\Default.rc2.res"
+/OUT:"D:\Project\Study-Unreal4\StudyUnrealCPP\Intermediate\Build\Win64\UE4Editor\Development\StudyUnrealCPP\UE4Editor-StudyUnrealCPP.lib"
+/INCLUDE:IMPLEMENT_MODULE_StudyUnrealCPP

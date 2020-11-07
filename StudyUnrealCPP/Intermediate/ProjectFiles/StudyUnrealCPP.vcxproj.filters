@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\StudyUnrealCPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E098EF32-886F-4808-A27D-4EA7E022546A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StudyUnrealCPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\StudyUnrealCPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D39DC766-6693-4FB5-A83F-1D06932676F2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\StudyUnrealCPP">
+      <UniqueIdentifier>{9B0EFA2D-B9C1-4578-97B6-F4EFE93CE764}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StudyUnrealCPP\StudyUnrealCPP.Build.cs">
+      <Filter>Source\StudyUnrealCPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\StudyUnrealCPP\StudyUnrealCPP.cpp">
+      <Filter>Source\StudyUnrealCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StudyUnrealCPP\StudyUnrealCPP.h">
+      <Filter>Source\StudyUnrealCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StudyUnrealCPP\StudyUnrealCPPGameModeBase.cpp">
+      <Filter>Source\StudyUnrealCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StudyUnrealCPP\StudyUnrealCPPGameModeBase.h">
+      <Filter>Source\StudyUnrealCPP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

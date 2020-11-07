@@ -1,0 +1,2 @@
+D:\Project\Study-Unreal4\StudyUnrealCPP\Intermediate\Build\Win64\UE4Editor\Development\StudyUnrealCPP\Definitions.StudyUnrealCPP.h
+D:\Project\Study-Unreal4\StudyUnrealCPP\Source\StudyUnrealCPP\StudyUnrealCPP.h

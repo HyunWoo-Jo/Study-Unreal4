@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Project\\Study-Unreal4\\StudyUnrealCPP\\Source\\StudyUnrealCPP\\StudyUnrealCPP.Build.cs",
+		"D:\\Project\\Study-Unreal4\\StudyUnrealCPP\\Source\\StudyUnrealCPP.Target.cs",
+		"D:\\Project\\Study-Unreal4\\StudyUnrealCPP\\Source\\StudyUnrealCPPEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}
